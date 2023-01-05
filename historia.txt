@@ -1,2 +1,10 @@
 esta es la historia de yair quintero
 si es alto 
+<<<<<<< HEAD
+=======
+cabecera
+lteras y recuadros de cabecera 
+segundo intento
+
+ 
+>>>>>>> cabecera
